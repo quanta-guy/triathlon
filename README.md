@@ -9,9 +9,3 @@ Using csv module in Python, the data is being stored as csv and later converted 
 Using pandas module in python, the csv input data is being converted into JSON format dataframe to be pushed into the SQL Database.
 Pagination is done using the formula
 ((limit*page_number)-limit)
-
-Output:
- 
-
- 
- 
